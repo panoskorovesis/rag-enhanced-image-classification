@@ -1,1 +1,8 @@
-src/development/output_data
+# venv
+.venv/
+
+src/development/output_data/
+
+# numpy and pickle files
+*.npz
+*.pkl
